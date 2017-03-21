@@ -1,0 +1,12 @@
+.path {
+    fill: #000000;
+    stroke: #000000;
+    stroke-width: 100px;
+
+}
+
+.map {
+    border: medium solid #BB3C2B;
+    fill: #79A466;
+    background-color: #CFDDE3;
+}
